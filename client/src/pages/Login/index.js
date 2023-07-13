@@ -36,7 +36,7 @@ function Login() {
       <div className="bg-white p-5 w-[450px]">
         <div className="flex flex-col gap-5">
           <h1 className="text-2xl font-bold text-center text-primary uppercase">
-            SHEYBLOGS - Login
+            OPE'SBLOGS - Login
           </h1>
 
           <input
